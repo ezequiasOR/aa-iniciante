@@ -25,3 +25,16 @@
 - [H - Balanced Team](#)
 - [I - Lecture Sleep](#)
 - [J - Frog Jumps](#)
+
+## Lista 3
+
+- [A - Table Tennis](#)
+- [B - Game with string](#)
+- [C - A and B and Compilation Errors](#)
+- [D - Misha and Changing Handles](#)
+- [E - Registration system](#)
+- [F - Cells Not Under Attack](#)
+- [G - Social Network (hard version)](#)
+- [H - Balanced Tunnel](#)
+- [I - Beautiful Numbers](#)
+- [J - Build a Contest](#)
