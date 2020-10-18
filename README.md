@@ -28,13 +28,13 @@
 
 ## Lista 3
 
-- [A - Table Tennis](#)
-- [B - Game with string](#)
-- [C - A and B and Compilation Errors](#)
-- [D - Misha and Changing Handles](#)
-- [E - Registration system](#)
-- [F - Cells Not Under Attack](#)
-- [G - Social Network (hard version)](#)
-- [H - Balanced Tunnel](#)
-- [I - Beautiful Numbers](#)
-- [J - Build a Contest](#)
+- [A - Table Tennis](https://codeforces.com/problemset/problem/879/B)
+- [B - Game with string](https://codeforces.com/problemset/problem/1104/B)
+- [C - A and B and Compilation Errors](https://codeforces.com/problemset/problem/519/B)
+- [D - Misha and Changing Handles](https://codeforces.com/problemset/problem/501/B)
+- [E - Registration system](https://codeforces.com/problemset/problem/4/C)
+- [F - Cells Not Under Attack](https://codeforces.com/problemset/problem/701/B)
+- [G - Social Network (hard version)](https://codeforces.com/problemset/problem/1234/B2)
+- [H - Balanced Tunnel](https://codeforces.com/problemset/problem/1237/B)
+- [I - Beautiful Numbers](https://codeforces.com/problemset/problem/1265/B)
+- [J - Build a Contest](https://codeforces.com/problemset/problem/1100/B)
