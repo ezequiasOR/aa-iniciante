@@ -15,29 +15,29 @@
 
 ## Lista 2
 
-- [A - Lineland Mail](#)
-- [B - Kuriyama Mirai's Stones](#)
-- [C - String Similarity](#)
-- [D - Substring Removal Game](#)
-- [E - Remove Duplicates](#)
-- [F - Sushi for Two](#)
-- [G - K-th Not Divisible by n](#)
-- [H - Balanced Team](#)
-- [I - Lecture Sleep](#)
-- [J - Frog Jumps](#)
+- [A - Lineland Mail](https://codeforces.com/problemset/problem/567/A)
+- [B - Kuriyama Mirai's Stones](https://codeforces.com/problemset/problem/433/B)
+- [C - String Similarity](https://codeforces.com/problemset/problem/1400/A)
+- [D - Substring Removal Game](https://codeforces.com/problemset/problem/1398/B)
+- [E - Remove Duplicates](https://codeforces.com/problemset/problem/978/A)
+- [F - Sushi for Two](https://codeforces.com/problemset/problem/1138/A)
+- [G - K-th Not Divisible by n](https://codeforces.com/problemset/problem/1352/C)
+- [H - Balanced Team](https://codeforces.com/problemset/problem/1133/C)
+- [I - Lecture Sleep](https://codeforces.com/problemset/problem/961/B)
+- [J - Frog Jumps](https://codeforces.com/problemset/problem/1324/C)
 
 ## Lista 3
 
-- [A - Table Tennis](#)
-- [B - Game with string](#)
-- [C - A and B and Compilation Errors](#)
-- [D - Misha and Changing Handles](#)
-- [E - Registration system](#)
-- [F - Cells Not Under Attack](#)
-- [G - Social Network (hard version)](#)
-- [H - Balanced Tunnel](#)
-- [I - Beautiful Numbers](#)
-- [J - Build a Contest](#)
+- [A - Table Tennis](https://codeforces.com/problemset/problem/879/B)
+- [B - Game with string](https://codeforces.com/problemset/problem/1104/B)
+- [C - A and B and Compilation Errors](https://codeforces.com/problemset/problem/519/B)
+- [D - Misha and Changing Handles](https://codeforces.com/problemset/problem/501/B)
+- [E - Registration system](https://codeforces.com/problemset/problem/4/C)
+- [F - Cells Not Under Attack](https://codeforces.com/problemset/problem/701/B)
+- [G - Social Network (hard version)](https://codeforces.com/problemset/problem/1234/B2)
+- [H - Balanced Tunnel](https://codeforces.com/problemset/problem/1237/B)
+- [I - Beautiful Numbers](https://codeforces.com/problemset/problem/1265/B)
+- [J - Build a Contest](https://codeforces.com/problemset/problem/1100/B)
 
 ## Lista 4
 
