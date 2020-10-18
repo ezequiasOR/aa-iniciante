@@ -38,3 +38,16 @@
 - [H - Balanced Tunnel](https://codeforces.com/problemset/problem/1237/B)
 - [I - Beautiful Numbers](https://codeforces.com/problemset/problem/1265/B)
 - [J - Build a Contest](https://codeforces.com/problemset/problem/1100/B)
+
+## Lista 4
+
+- [A - Omkar and Last Class of Math](https://codeforces.com/problemset/problem/1372/B)
+- [B - LCM](https://codeforces.com/problemset/problem/1068/B)
+- [C - Co-prime Array](https://codeforces.com/problemset/problem/660/A)
+- [D - Heidi Learns Hashing (Easy)](https://codeforces.com/problemset/problem/1184/A1)
+- [E - T-primes](https://codeforces.com/problemset/problem/230/B)
+- [F - Ehab and a Special Coloring Problem](https://codeforces.com/problemset/problem/1174/C)
+- [G - Divisor Subtraction](https://codeforces.com/problemset/problem/1076/B)
+- [H - Levko and Permutation](https://codeforces.com/problemset/problem/361/B)
+- [I - LCM Problem](https://codeforces.com/problemset/problem/1389/A)
+- [J - Vasya and Petya's Game](https://codeforces.com/problemset/problem/576/A)
