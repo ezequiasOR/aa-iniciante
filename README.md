@@ -51,3 +51,29 @@
 - [H - Levko and Permutation](https://codeforces.com/problemset/problem/361/B)
 - [I - LCM Problem](https://codeforces.com/problemset/problem/1389/A)
 - [J - Vasya and Petya's Game](https://codeforces.com/problemset/problem/576/A)
+
+## Lista 5
+
+- [A - Pocket Book](https://codeforces.com/problemset/problem/152/C)
+- [B - Kolya and Tanya](https://codeforces.com/problemset/problem/584/B)
+- [C - Minimum number of steps](https://codeforces.com/problemset/problem/804/B)
+- [D - Ayoub and Lost Array](https://codeforces.com/problemset/problem/1105/C)
+- [E - Guess the Array](https://codeforces.com/problemset/problem/727/C)
+- [F - Vanya and Label](https://codeforces.com/problemset/problem/677/C)
+- [G - The last digit](https://www.spoj.com/problems/LASTDIG/en/)
+- [H - Modulo Equality](https://codeforces.com/problemset/problem/1269/B)
+- [I - Just Add It](https://www.spoj.com/problems/ZSUM/en/)
+- [J - Modular Equations](https://codeforces.com/problemset/problem/495/B)
+
+## Lista 6
+
+- [A - Silent Classroom](https://codeforces.com/problemset/problem/1166/A)
+- [B - Yet Another Broken Keyboard](https://codeforces.com/problemset/problem/1272/C)
+- [C - Random Teams](https://codeforces.com/problemset/problem/478/B)
+- [D - K-th Beautiful String](https://codeforces.com/problemset/problem/1328/B)
+- [E - New Year and Ascent Sequence](https://codeforces.com/problemset/problem/1284/B)
+- [F - The World is a Theatre](https://codeforces.com/problemset/problem/131/C)
+- [G - Benches](https://codeforces.com/problemset/problem/630/H)
+- [H - Ada and Teams](https://www.spoj.com/problems/ADATEAMS/en/)
+- [I - Card Game](https://www.spoj.com/problems/HC12/en/)
+- [J - The Fair Nut and String](https://codeforces.com/problemset/problem/1084/C)
