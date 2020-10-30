@@ -77,3 +77,16 @@
 - [H - Ada and Teams](https://www.spoj.com/problems/ADATEAMS/en/)
 - [I - Card Game](https://www.spoj.com/problems/HC12/en/)
 - [J - The Fair Nut and String](https://codeforces.com/problemset/problem/1084/C)
+
+## Lista 7
+
+- [A - Protect Sheep](https://codeforces.com/problemset/problem/948/A)
+- [B - New Year Transportation](https://codeforces.com/problemset/problem/500/A)
+- [C - Metro](https://codeforces.com/problemset/problem/1055/A)
+- [D - Transformation: from A to B](https://codeforces.com/problemset/problem/727/A)
+- [E - Two Buttons](https://codeforces.com/problemset/problem/520/B)
+- [F - Fox And Two Dots](https://codeforces.com/problemset/problem/510/B)
+- [G - Party](https://codeforces.com/problemset/problem/115/A)
+- [H - Ice Skating](https://codeforces.com/problemset/problem/217/A)
+- [I - Alyona and the Tree](https://codeforces.com/problemset/problem/682/C)
+- [J - Mr. Kitayuta's Colorful Graph](https://codeforces.com/problemset/problem/505/B)
