@@ -90,3 +90,29 @@
 - [H - Ice Skating](https://codeforces.com/problemset/problem/217/A)
 - [I - Alyona and the Tree](https://codeforces.com/problemset/problem/682/C)
 - [J - Mr. Kitayuta's Colorful Graph](https://codeforces.com/problemset/problem/505/B)
+
+## Lista 8
+
+- [A - Where do I Turn?](https://codeforces.com/problemset/problem/227/A)
+- [B - Connect](https://codeforces.com/problemset/problem/1130/C)
+- [C - Secret Passwords](https://codeforces.com/problemset/problem/1263/D)
+- [D - Bear and Friendship Condition](https://codeforces.com/problemset/problem/771/A)
+- [E - Dark roads](https://www.spoj.com/problems/ULM09/en/)
+- [F - Bytelandian Blingors Network](https://www.spoj.com/problems/BLINNET/en/)
+- [G - Dijkstra?](https://codeforces.com/problemset/problem/20/C)
+- [H - Hierarchy](https://codeforces.com/problemset/problem/17/B)
+- [I - The Two Routes](https://codeforces.com/problemset/problem/601/A)
+- [J - Traffic Network](https://www.spoj.com/problems/TRAFFICN/en/)
+
+## Lista 9
+
+- [A - The Knapsack Problem](https://www.spoj.com/problems/KNAPSACK/en/)
+- [B - Cut Ribbon](https://codeforces.com/problemset/problem/189/A)
+- [C - Buying Apples!](https://www.spoj.com/problems/ABA12C/en/)
+- [D - Ada and Subsequence](https://www.spoj.com/problems/ADASEQEN/en/)
+- [E - Xenia and Ringroad](https://codeforces.com/problemset/problem/339/B)
+- [F - Sereja and Suffixes](https://codeforces.com/problemset/problem/368/B)
+- [G - Alphacode](https://www.spoj.com/problems/ACODE/en/)
+- [H - Tetrahedron](https://codeforces.com/problemset/problem/166/E)
+- [I - Black or White](https://www.spoj.com/problems/BORW/en/)
+- [J - Minimum Cost](https://www.spoj.com/problems/MC/en/)
