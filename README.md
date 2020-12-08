@@ -116,3 +116,21 @@
 - [H - Tetrahedron](https://codeforces.com/problemset/problem/166/E)
 - [I - Black or White](https://www.spoj.com/problems/BORW/en/)
 - [J - Minimum Cost](https://www.spoj.com/problems/MC/en/)
+
+## Lista 10
+
+- [A - Night at the Museum](https://codeforces.com/problemset/problem/731/A)
+- [B - Broken Clock](https://codeforces.com/problemset/problem/722/A)
+- [C - War of the Corporations](https://codeforces.com/problemset/problem/625/B)
+- [D - Sereja and Array](https://codeforces.com/problemset/problem/315/B)
+- [E - Sort the Array](https://codeforces.com/problemset/problem/451/B)
+- [F - Stripe](https://codeforces.com/problemset/problem/18/C)
+- [G - Balls Game](https://codeforces.com/problemset/problem/430/B)
+- [H - Adding Digits](https://codeforces.com/problemset/problem/260/A)
+- [I - Kefa and Company](https://codeforces.com/problemset/problem/580/B)
+- [J - Simple Game](https://codeforces.com/problemset/problem/570/B)
+- [K - Buy a Shovel](https://codeforces.com/problemset/problem/732/A)
+- [L - Party](https://codeforces.com/problemset/problem/115/A)
+- [M - Special Permutation](https://codeforces.com/problemset/problem/1454/A)
+- [N - Boring Apartments](https://codeforces.com/problemset/problem/1433/A)
+- [O - Yet Another Two Integers Problem](https://codeforces.com/problemset/problem/1409/A)
